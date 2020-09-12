@@ -8,5 +8,7 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git management https://github.com/openwrt-management/packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-#src-git helloworld https://github.com/fw876/helloworld
-src-git https://github.com/jefferymvp/luci-app-koolproxyR ./package/luci-app-koolproxyR
+src-git kenzok https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git helloworld https://github.com/fw876/helloworld
+src git https://github.com/jefferymvp/luci-app-koolproxyR.git
